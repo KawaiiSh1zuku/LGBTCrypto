@@ -1,0 +1,4 @@
+/.venv/
+/lgb_model.txt
+/processed.csv
+/ta_lib-0.6.0-cp310-cp310-win_amd64.whl
